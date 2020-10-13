@@ -16,7 +16,7 @@
 title: Developer Docs
 description: Understand the development process of FurryTails
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://opensource.furrytails.in" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://opensource.furrble.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "template.md", "Rakefile"]
@@ -35,11 +35,11 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "FurryTails Website":
-    - "//furrytails.in"
+  "Furrble Website":
+    - "//furrble.com"
 
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2020 FurryTails Pvt. Ltd."
+footer_content: "Copyright &copy; 2020 Furrble Technologies Pvt. Ltd."
 
 # Color scheme currently only supports "dark" or nil (default)
 color_scheme: nil
